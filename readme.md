@@ -23,7 +23,7 @@ git clone https://github.com/shyedhu/cypress-automation-framework.git
 ```
 navigate into the project folder
 
-cd cypress-framework
+cd cypress-automation-framework
 
 and run the following command
 
