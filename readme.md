@@ -6,7 +6,8 @@ This is e2e automation framework using cypress.io with javascript.This repo cont
 
 ## Prerequisites
 
-Install Node.js (together with the NPM tool) by following instructions available on nodejs.org.
+- Install Node.js (together with the NPM tool) by following instructions available on nodejs.org.
+- Install Docker, instructions are available on https://docs.docker.com/get-docker/
 
 ## Install
 
@@ -81,3 +82,12 @@ yarn cy:run:headless
 docker build -t cypress-react .
 
 ```
+
+## View the Mochawesome report and videos
+
+1. In order to view the html report , you will need to navigate to /cypress-automation-framework/cypress/report/mochawesome-report
+
+2. View the videos , you will need to navigate to /cypress-automation-framework/cypress/videos
+
+![](https://github.com/shyedhu/images/blob/main/cypress-test-result.gif)
+
